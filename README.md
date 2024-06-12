@@ -6,7 +6,7 @@ This repository contains links to download the VN-SLU dataset and a brief overvi
 
 **Getting the data** 
 
-Textual annotations and the corresponding acoustic data can be download from https://drive.google.com/drive/folders/1QJFQjwNl4tmlf4R1yt4W3gfUzsiF-kWp 
+Textual annotations and the corresponding acoustic data can be downloaded from https://drive.google.com/drive/folders/1QJFQjwNl4tmlf4R1yt4W3gfUzsiF-kWp 
 
 **Brief overview** 
 
