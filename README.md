@@ -1,8 +1,9 @@
 # VN-SLU
 A Vietnamese Spoken Language Understanding Dataset
+
 Contact email: tuyencbt@gmail.com
 
-This repository contains links to download the VN-SLU dataset and a brief overview of the dataset
+This repository contains links to download the VN-SLU dataset and a brief overview of the dataset.
 
 **Getting the data** 
 
