@@ -1,5 +1,4 @@
-# VN-SLU
-A Vietnamese Spoken Language Understanding Dataset
+# VN-SLU: A Vietnamese Spoken Language Understanding Dataset
 
 Contact email: tuyencbt@gmail.com
 
